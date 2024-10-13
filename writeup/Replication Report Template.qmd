@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Study 'How Quick Decisions Illuminate Moral Character' by Clayton R. Critcher, Yoel Inbar and David A. Pizarro (2012, Psychological Science)"
+author: "Caroline Porche (cporche@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -12,8 +12,7 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
-
+In moral psychology, it’s clear that people don’t just judge others by the decisions they make but also by how quickly they make them. Critcher, Inbar, and Pizarro (2012) found that the speed of decision-making plays a major role in shaping how we evaluate someone’s moral character. Quick decisions often signal certainty, which leads to stronger judgments—quick moral decisions get positive evaluations, while quick immoral ones result in harsher criticism. In contrast, slow decisions suggest indecision or conflict, leading to more moderate assessments. In this replication, I’ll be testing these findings again, but with a stronger emphasis on randomization to reduce any potential biases that may have influenced the original study. This could pose challenges, especially if additional variables or confounding factors emerge that were not fully accounted for before. By refining the experimental design, I aim to provide a clearer understanding of how decision speed impacts moral evaluations and address any limitations in the original methodology.
 
 ## Methods
 
